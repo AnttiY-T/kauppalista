@@ -1,2 +1,4 @@
-# kauppalista
-Minun oma kauppalistani
+# Kauppalista.
+
+
+Minun oma kauppalistani.
